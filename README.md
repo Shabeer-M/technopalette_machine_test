@@ -13,6 +13,8 @@ A robust Flutter application built to demonstrate Clean Architecture, BLoC state
 
 This project follows **Clean Architecture** principles, separating the codebase into three main layers:
 
+
+
 1.  **Domain Layer** (Inner-most):
     -   **Entities**: Pure Dart objects representing business data.
     -   **Use Cases**: Encapsulate business logic and interact with repositories.

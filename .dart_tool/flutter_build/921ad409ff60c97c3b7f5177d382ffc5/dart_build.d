@@ -1,0 +1,1 @@
+ /Users/aiswarya/Downloads/technopalette_machine_test/.dart_tool/flutter_build/921ad409ff60c97c3b7f5177d382ffc5/dart_build_result.json:  /Users/aiswarya/Documents/devlopment/flutter/bin/cache/dart-sdk/version /Users/aiswarya/Downloads/technopalette_machine_test/.dart_tool/package_config.json /Users/aiswarya/Downloads/technopalette_machine_test/pubspec.yaml

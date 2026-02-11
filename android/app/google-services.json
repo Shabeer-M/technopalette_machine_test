@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141558018210",
+    "project_id": "technopalette-test",
+    "storage_bucket": "technopalette-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141558018210:android:f5922420ab9fcf033f67fb",
+        "android_client_info": {
+          "package_name": "com.example.technopalette_machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxBdl1UJMi0gZx8m67GgpsyD9s2p2aNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
